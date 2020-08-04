@@ -8,7 +8,9 @@ Agora estou mergulhando no mundo Javascript.
 
 Focado em Node.js, React.js e React Native.
 
-Contato: andredavid1@yahoo.com.br
+Sempre pronto a aprender e a compartilhar conhecimentos. Então se gostou de alguma coisa e quer entender melhor, estou a disposição. Se acha que alguma coisa poderia ser melhor, estou aberto a sugestões.
+
+Contatos: andredavid1@yahoo.com.br / https://www.linkedin.com/in/andre1279/
 
 
 
